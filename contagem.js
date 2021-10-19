@@ -1,11 +1,6 @@
 let alunos = 10
 let lista_de_alunos = ["Jullys", "Elen", "Frederico", "Dania", "Ismael", "Rafael", "Pedro", "Odirley", "Thiago", "Lídia"]
 
-/*console.log ("Jullys")
-console.log ("Jullys")
-console.log ("Jullys")
-console.log ("Jullys")*/
-
 for (let contador = 0; contador < lista_de_alunos.length; contador ++) {
     //console.log (contador)
 
